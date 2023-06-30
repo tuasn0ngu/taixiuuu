@@ -24,7 +24,7 @@ CHÚ THÍCH:
 
 - Như đã nói ở trên thì code này mục đích chính là học hỏi, nên bạn nào lấy đi phát triển thương mại hay gì bị túm thì mình không chịu trách nhiệm nhé.
 
-- Ai copy code xin ghi nguồn: [tuasn](([https://www.facebook.com/tuasn0ngu])) (Ngoài ra mình có nhiều bộ game đã hoàn thiện đầy đủ, bạn nào có nhu cầu inbox nhé)
+- Ai copy code xin ghi nguồn: https://www.facebook.com/tuasn0ngu (Ngoài ra mình có nhiều bộ game đã hoàn thiện đầy đủ, bạn nào có nhu cầu inbox nhé)
 
 
 
